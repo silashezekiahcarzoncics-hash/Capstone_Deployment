@@ -1,0 +1,4464 @@
+{
+  "sourceMode": "supabase_snapshot",
+  "readOnlySnapshot": true,
+  "generatedAt": "2026-11-20T10:35:45.448Z",
+  "prepared": false,
+  "readyForAnalysis": false,
+  "runId": null,
+  "inputFingerprint": null,
+  "uploadedToSupabase": false,
+  "supabaseSnapshot": {
+    "syncedAt": "2026-11-20T10:35:45.448Z",
+    "latestRun": {
+      "run_id": "0c4caca6-0eac-43d8-beaa-98ad8099486d",
+      "created_at": "2026-11-19T13:53:16.759681+00:00",
+      "status": "completed",
+      "source_row_count": 60457
+    },
+    "mappingCounts": {
+      "products": 641,
+      "geography": 82
+    },
+    "productMapping": [
+      {
+        "raw_product_name": "1 Roll/ 5kgs 24 PVC Shrink Wrap Film Plastic Sealer Tape/ Shrinkable/Thickness 30microns",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100pcs Calypso Plastic LABO HD Export Quality Food Graded, Durable, Flexible, Odorless, Supot/ Bag",
+        "category": "Plastic Bags",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Perfume Glass Container Bottle/ Shrinkable",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs High Quality Fragile sticker",
+        "category": "Label / Sticker",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Shrinkable Film Plastic Bag 100g cream jar",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrinkable Plastic Wrap Packaging Shrink Wrap film Sealer Tape for Spray Bottle Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "PREMIUM TUBE ROLL WRAP SHRINKABLE PLASTIC SEAL/ SHRINK FILM (10yards) FOR CONTAINER & BOTTLE",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100/ 200pcs Tin Can Series Whole Seal, Shrinkable Film, Shrink Wrap Film, Plastic Seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Plastic Sealer Tape for Bottle Container 58mm Shrinkable Plastic Bag Film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Plastic Containers",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "200pcs PVC Shrink Wrap Plastic Sealer Tape for Bottle Perfume Glass Container Bottle/ Shrinkable",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container 500ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs Shrink Wrap Film/ Cap Seal for Lengua Plastic Jar",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging Plastic Sealer Tape Shrinkable for Perfume Men & Woman Bottle",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/ 200pcs Shrink Cap seal/ Plastic Seal for plastic 1oz or 4oz",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs, 82mm(M7154), Shrinkable Plastic seal/Cap seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Sealer for Perfume Glass Bottle Container 15-60ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Bag Film/ Plastic Sealer Tape for New Container/ Bottle 10ml to 120ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs Shrink Wrap Film for Plastic Contaner 300ml-500ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Cap Plastic Sealer Tape Flip Cap",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Container 1-3ml Serum Shrinkable Plastic Bag",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100/ 200pcs Tin Can Series Whole Seal w/ perforate, Shrinkable Film, Shrink Wrap Film, Plastic Seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/ 200pcs 30microns Shrink Wrap Film/ Plastic Seal for Plastic Containers",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Cap Sealer for Sport Caps and lift cap 1500-350ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Film Sealer Tape for Bottle Container Beauty Product",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs High Quality Shrink wrap film 40microns for 100-250ml container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs High Quality Shrink Wrap Film, Shrikable Seal for Perfume Bottle",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape - Bottle Container Bag Shrinkable plastic -Pump Cap Seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "5/ 10 yards Shrink Film Roll Wrap for Square Tin Can, Plastic Seal, Shrinkable Film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Container Bag Shrinkable plastic- Spray/Foam",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Premium Waybill Sticker Paper Fold Thermal Sticker Paper A6 (100mmx150mm) Waterproof Shipping Label",
+        "category": "Label / Sticker",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs Shrink Wrap Film for 10g to 50g",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "1pack Bug Off Naphthalene Moth Balls",
+        "category": "Packaging / General Supplies",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs 25 micronsTin Can Cap Seal/ Shrink Wrap Film/ Plastic Sealer",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs Shrink Wrap Film/ Plastic Sealers for 60ml/ Honey pot/ Capsule/ Cube",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs, 269mmx63mm/230mmx65mm, SQ500/Jar Mayo/ shrinkable plastic film/ Cap seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs High Quality Pre Cut Shrink Wrap Film 35 microns, 30ml to 200ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "PREMIUM ROLL SHRINKABLE PLASTIC SEAL/ SHRINK FILM (10yards)",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Plastic Sealer Tape for Bottle Container 100-250ml Pump&Spray Shrinkable Plastic Bag",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs Pump Sealer / Cap Bottom Sealer / Shrink wrap / Shrinkable film / Plastic Seal / Cap Seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Bag Film/ Plastic Sealer Tape for New Glass Container/ Bottle for Serum, Roller",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container Spray/Trigger",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs Shrink Wrap Film/ Sealer Tape for Roller/ Spray Tube/ Vacuum Eye Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Sealer Tape for Screw Bottle and Deodorant Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Perfume Bottle Containers",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs Shrink Wrap Film/ Cap Sealer, 50 Liners for Peanut Jar",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs Shrink Wrap Film for 10g and 50g Continers",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs /500pcs Whole Shrink Wrap Film/ Shrinkable Plastic Sealer for 300grams/250ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "1 Pair Hand Glove Made From Terylene Cotton",
+        "category": "Packaging Accessories",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "High Quality 100pcs/200pcs TUB Containers SHRINKABLE PLASTIC SEAL",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "High Quality PE/ PET Aluminum Induction Liner/ Pressure Seal Liner for Bottle, Container, Foil Seal",
+        "category": "Bottle / Container",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrinkable Plastic Wrap Packaging Shrink Wrap film Sealer Tape for Square Diffuser Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Plastic Sealer Tape for Bottle Pet Bottle 350-1500ml Container Shrinkable Cap Seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs PVC High Quality Shrinkable Wrap Film/ Plastic Cap Sealer Tape for New Bottles and Containers",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs, Cap Plastic Seals/ Shrinkable Film Sealer/ Shrink Wrap Plastic Seals",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs Shrink Wrap Film/ Cap Liners for 300ml to 1000ml container.",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100/500pcs Longneck/Lapad /Ketchup, Cap seal/shrinkable plastic",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "250grams Gin Cap/ Long neck 750ml Cap / Ketchup Cap/Lapad Cap/ liners /Seals",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Cap Sealer Tape Shrinkable Film for 28MM & 30MM",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "1 PC 5.5 inches Affordable Office/ School Scissors",
+        "category": "Packaging / General Supplies",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs Longneck/Lapad /Ketchup, Cap seal/shrinkable plastic",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Plain Brown Paper Bag / Brown Kraft Paper Bag for Food, Clothes, Gift Packaging Supot Paperbags",
+        "category": "Packaging / General Supplies",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs High Quality Shrink Wrap Film For 30ml-40ml Perfume/ Cologne Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "1pack Ice Bag, PE Plastic, approx 100pcs.",
+        "category": "Plastic Bags",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Container 5-20ml Shrinkable Plastic Seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs High Quality sticker NO Video, No Refund, No Return",
+        "category": "Label / Sticker",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer for Bottle Container Medicine Shrinkable Plastic Bag",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging / Shrinkable Plastic Sealer Tape for Round/ Square/ Oval Soap Seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Plastic Sealer Tape Shrinkable for Perfume Round &Square Bottle",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Peanut Butter Jar Container with free Plastic Sealer Tape/ Plastic Packaging: 60pcs -4oz /12oz /16oz",
+        "category": "Bottle / Container",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs-Thick Bluish Shrink Wrap Film for Packaging Container Shrinkable Plastic for Perfume Bottle",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100/ 500pcs, 28mm & 30MM(M7301/M7314/M7194), Shrinkable Plastic Seal/Cap seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Container eye brow/liner Shrinkable Plastic",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs Shrink Wrap Film/ Plastic Seal for 10grams to 100grams",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer for Bottle Container Lip gloss inhaler/Shrinkable Plastic Bag",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/500pcs High Quality Cap Seal for Plastic Tube Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Shrinkable Tape Cap Sealer for Plastic 15-60ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Container Honey Jar & Induction Liners",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Plastic Sealer Tape for Bottle Container 70mm/53mm/28mm Shrinkable Plastic Cap Seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "New Black Trash Bags Plastic Bag Sold per Pack/ Garbage Bags",
+        "category": "Plastic Bags",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Cap Plastic Sealer Tape for Pump &Spray Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs PVC High Quality Shrinkable Wrap Film/Shrink Wrap Plastic Sealer tape for Bottles &Containers",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Peanut Butter Plastic Jar with free sealer: 60pcs of 4oz /30pcs of 12oz/ 24pcs of 16oz",
+        "category": "Bottle / Container",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs Premium Quality Fragile sticker Handle With Care",
+        "category": "Label / Sticker",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging Shrinkable Plastic Cap Sealer Film for Mayo or Peanut Jar",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/ 200pcs 100ml-500ml Shrink Wrap Film, Shrinkable Wrap Seal, Plastic Sealer.",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Perfume Glass Container/ Shrinkable 15-60ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging / Plastic Sealer Tape for Rectangular Tub Microwavable Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "30microns Shrink Wrap Bag Film, Plastic Sealer Sleeves tape for Perfume Glass Container/ Bottle",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer for Bottle Roller, Liptint, Lip gloss, Tube Gem Shrinkable",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging Plastic sealer tape for Microwavable Container RO85, R070 &LF400",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "5KGS Premium Roll Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100/ 500pcs, 28mm(M7301/M7314/M7194), Shrinkable Plastic Seal/Cap seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs, High quality TUB Containers SHRINKABLE PLASTIC SEAL",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs 200-475ml Cap Seal/ Shrink wrap film/ Shrinkable Film/ Plastic Sealer",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Shrinkable Tape Cap Sealer for Plastic 30-60ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "4oz/ 120ml (M7361) Glass Jar Bottle sold per box with free 30pcs plastic sealer",
+        "category": "Bottle / Container",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/ 200pcs High Quality Shrink Wrap Film 35microns for perfume 50ml to 85ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "High Quality 50pcs Plastic Bag with designed layout",
+        "category": "Plastic Bags",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container New",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer for Bottle Container 5-200grams Shrinkable Plastic Bag",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs, 28mm(M7301/M7314/M7194), Shrinkable Plastic Seal/Cap seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Plastic Sealer for Bottle Container Pet bottle/Kutkutin Jar Shrinkable Cap Plastic",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Container Shrinkable Cap Seal for 10-100grams",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs, HIGH QUALITY (40 microns) ROUND TUB SEALER(190mmx40mm)Shrinkable plastic film (virgin pvc)",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs, High Quality Cap Plastic Seals/ Shrinkable Film Sealer/ Shrink Wrap Plastic Seals",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Film/ Plastic Cap Sealer & Liners for Peanut White Jar Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs 30microns Perfume Shrink Wrap Film, Shrinkable Sealer, Plastic Seals",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Plastic Sealer Tape for Bottle Container Tin Can Shrinkable Plastic Bag Film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "24pcs 120ml/4oz PIMIENTO GLASS JAR",
+        "category": "Bottle / Container",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Bag Film/ Plastic Sealer Tape for Perfume container/ Bottle 15ml to 60ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs Shrink Wrap Film/ Sealer tape for Perfume container 15ml to 60ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "1 Pair Cloth Hand Gloves for hand ptotection.",
+        "category": "Packaging Accessories",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "SALE 100pcs/500pcs 90x240 Shrink Wrap Film, Shrinkable Wrap Seal, Plastic Sealer for 250ml Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging / Shrinkable Plastic Sealer Tape Cap for Beehive Style",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Container Amber bottle Shrinkable Plastic",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs Whole Seal For 20-150ml Shrink Wrap Film, Shrikable Plastic Seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Authentic Platinum CLEAR packaging tape, 2\"& 3/4\" & Fragile tape (guaranteed 100meters)",
+        "category": "Tape / Adhesive",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Multi Purpose Round White Rags- Basahan Bilog, Cleaning Material/ Recycle Clothe/ Eco-Friendly",
+        "category": "Packaging / General Supplies",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs Premium Quality Sticker NO Video, No Refund, No Return, PARCEL STICKER PAPER WATERPROOF",
+        "category": "Label / Sticker",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "30pcs of 400ml narrow spout PET bottle with free sealer",
+        "category": "Bottle / Container",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Tube Film/ Plastic Sealer Tape for Glass Container/ Bottle/ Capsule/ Jar",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container 300grams/250ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs, 70mm(M7234/M7303/M7208/M7365/M7041), Shinkable plastic seal/ Cap seal/ Shrink film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "10 or 20pcs TAKIP CAPS- 58mm for Food Processed Containers with free plastic sealers",
+        "category": "Bottle / Container",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100/ 500pcs, 43mm(gatorade cap size), Shrinkable Plastic Seal/Cap Seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container Round",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100pcs, Cap seal/Shrinkable plastic film/Shrink wrap film/Shrink sleeves/ Plastic sealer",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Container 1000-2500ml Shrinkable Plastic Seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs High Quality Seal/ Shrink Wrap Film for Popsicle, Macaroon, Glass Bottles, & Serum",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Film Plastic Packaging /Shrinkable Plastic Sealer Tape for Spray Bottle Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs Perfume Shrink Wrap Film, Shrinkable Sealer, Plastic Seals",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer for Bottle Container Beauty Product/Shrinkable Plastic Bag",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "SHRINK WRAP ROLLS/ SHRINKABKE ROLLS",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container 30-100ml Perfume",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Party Set Disposable Food Graded Utensil, Plastic Spoon, Fork, Glass, Paper Plate, Paper Cup & Bowl",
+        "category": "Packaging / General Supplies",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer for Bottle Container 6oz/9oz Shrinkable Plastic Bag Film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/500pcs, 82mm(M7154 and M7927), Shrinkable Plastic seal/Cap seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "(25pcsx2) Carbonized Duplicate Receipts",
+        "category": "Packaging / General Supplies",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "50pcs Premium Printed Plastic Bag with Handle / Printed Plastic Bag for Business w/ Thank you",
+        "category": "Plastic Bags",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Plastic Sealer Film for Flip Cap Bottle Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Container Shrinkable Plastic Bag Capsule",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs Calypso Plastic LABO Plastic Bag Food Graded, Durable, Flexible, Odorless, Supot",
+        "category": "Plastic Bags",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging Shrinkable Plastic Sealer Tape-Induction Liners for Peanut White Jar",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Film for Cap Sealer Round Glass Jar for 10-100grams",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/ 50pairs Plastic Gloves Disposable for Food & Non Food Eco Friendly",
+        "category": "Packaging Accessories",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Facial Tissue Paper (3ply), Paper Towel Tissue (150pulls), Kitchen Towel Tissue, Inter-folded",
+        "category": "Packaging / General Supplies",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Peanut Butter Jar Container with free Plastic Sealer Tape: 60pcs -4oz /30pcs -12oz/ 24pcs -16oz",
+        "category": "Bottle / Container",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "8oz/240ml (M7177) Generic Bottle sold per box with 30pcs plastic sealer",
+        "category": "Bottle / Container",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Interfolded Paper Towel White, 150 Pulls, Max. 2packs per order.",
+        "category": "Packaging / General Supplies",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer for Bottle Container 300-1000ml Shrinkable Plastic Bag Film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "20 inches width Bubble wrap, sold by 1meter to 5 meters",
+        "category": "Protective Packaging",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Plastic Sealer Film for Rectangular Glass Perfume",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Thick Bluish Shrink Wrap Film for Packaging Container/Shrinkable Plastic seal for Bottle",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "ROLL SHRINKABLE PLASTIC SEAL/ SHRINK FILM (5yards/10yards)",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs / 200pcs Shrink Wrap Film/ Cap seal for eye brow / eye liner",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Container Bag Shrinkable plastic New100-500ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs Shrink Cap Seal/ Plastic Seal for Tin cover Plastic containers 30ml-120ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Fragile Sticker for Packaging/ Fragile Handle With Care/ No Sticker No Refund Sticker/ Signage",
+        "category": "Label / Sticker",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/300pcs Shrink Wrap Film/ Sealer tape for Perfume container 15ml to 60ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging Shrinkable Plastic Sealer Tape for Bottle Container 300-1000ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Shrinkable Film Plastic Bag for 500ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "1000pcs (loose pack)@LOWER PRICE shrink wrap/plastic sealer/cap seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Container Transparent Plastic Sealer Tape for Trigger bottle",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Bag Film/ Plastic Sealer Tape for New 4 Glass Perfume Container/ Bottle",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs-Thick Bluish Shrink Wrap Film for Packaging Container Shrinkable Plastic seal for Bottle",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Film Plastic Packaging/ Clear Shrinkable Plastic Sealer for Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Bag Film/ Plastic Seal Tape for New Glass Perfume Container/ Bottle 50-85ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container Capsule",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Sealer for 250ml Trigger & Spray Bottle Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container New100-500ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Transparent Plastic Sealer Tape 500ml Bell Bottle",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Plastic Sealer Film for Dropper Bottle Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Heavy Duty Heat Gun 2000W Hot Air Blower Gun, 100mm Impulse Heat Sealer for Plastic Packaging",
+        "category": "Packaging Accessories",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100/500 pcs,58mm (M7361/M7263/M7101/M7438/M7177/M7743/RP-29),Cap seal/ Shrinkable plastic seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Plastic Sealer Tape for Bottle Container 10grams /60ml Shrinkable Plastic Bag Film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "5 KGS SHRINK WRAP ROLLS/ SHRINKABKE FILM SEALER",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Cap Plastic Sealer Tape for 100-2000grams",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrinkable Cap seal Shrink Wrap Plastic Sealer Tape for Bottle /Container 118ml to 475ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "300ml wide mouth glass jar(M7154) with free 30pcs plastic sealer",
+        "category": "Bottle / Container",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "1000pcs Shrink Wrap Plastic Sealer Cap Water refilling (small cap/ big cap/faucet/umbrella seal)",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Cap Sealer Tape Shrinkable Film 28MM & 30MM",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/ 300pcs Shrink Wrap Film/ Sealer Tape for 30ml Perfume Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer for Bottle Container Lengua Jar/ Shrinkable Plastic Bag/ Tape",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Plastic Sealer Tape for Bottle Container 1oz/ 4oz Shrinkable Plastic Bag film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container 300-1000ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "10pcs Premium Non Toxic SILICA GEL DESICCANT FOOD AND NON FOOD GRADE/ Moisture Absorber",
+        "category": "Packaging Accessories",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/ 200pcs Shrink Wrap Seal/ Shrinkable Plastic Sealer Various container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Premium Adhesive Tape / Sticker, Thank you & Fragile Tape, Price Tag label, Fragile Handle sticker",
+        "category": "Tape / Adhesive",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Tissue Facial Paper, 3ply, 110pulls, 330 sheets Inter-Folded Facial Tissue Max. 8 packs per order",
+        "category": "Packaging / General Supplies",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Peanut Butter Plastic Jar with free sealer(with extra): 60pcs of 4oz /30pcs of 12oz/ 24pcs of 16oz",
+        "category": "Bottle / Container",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs Ice Cream Tub Shrink film / Cap seal/ Plastic sealer / Shrinkable seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape Cap Sealer & Induction Liners/ Pressure Sea for 50-225ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "12 INCHES TRANSFARENT PLASTIC RULER SCHOOL/ MEASURING TOOL",
+        "category": "Packaging / General Supplies",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100pcs Shrink Wrap Film/ Cap Sealer, 50pcs Liners for Crystal Jar",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Plastic Sealer Film for Wine Bottle w/ Lid",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container 100g cream jar",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100-500pcs New PVC Shrink Wrap Plastic Cap Seal for Longneck/Lapad /Ketchup Container & Bottle",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Cap Plastic Sealer Tape 43mm(gatorade cap size)",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Film/ Plastic Sealer Tape for New Container/ Bottle 400ml to 880ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Facial Tissue Paper, 3ply, 110pulls, 330 sheets. Max. of 8 packs per order",
+        "category": "Packaging / General Supplies",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Authentic Original Springmaid High Quality Everyday Hair Comb for Men and Women (Suklay)",
+        "category": "Packaging / General Supplies",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs Wholeseal for 1 Liter Jar Canister",
+        "category": "Bottle / Container",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs Shrink Wrap Film/ Cap Sealer for Wafer plastic container 355-710ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Cap Plastic Sealer Tape Shrinkable film 5-20ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Plastic Sealer Tape for Bottle Pet Bottle 350-500ml Container Shrinkable Cap Seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Transparent Plastic Sealer Tape Film 220ml-500ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs 30micron Pre Cut Shrinkable Film/ Plastic Seal for 100ml to 200ml glass container",
+        "category": "Bottle / Container",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging / Shrinkable Plastic Sealer Tape Cap for Crystal Jar &Induction Liners",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging Cap Sealer Tape Round & Rectangular tub Microwavable Plastic Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Film/ Plastic Sealer tape for 300grams/250ml Beauty Product Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs Shrink Wrap Film/ Cap Seal for RO85, R070 & LF400",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape Shrinkable Plastic Perfume - Glass Bottle and Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "50pcs Plastic Bag with designed layout",
+        "category": "Plastic Bags",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Plastic Sealer Tape for Bottle Container Various Glass Shrinkable Plastic Bag Film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs Shrink Wrap Film for 5-50grams Plastic Round Container, Shrinkable Plastic Seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Plastic Sealer Tape for Bottle Container Triģger100-250ml Shrinkable Plastic Film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Cap Plastic Sealer Tape Flip Cap for 100-250ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100/500pcs,38mm(M7294/M7364/M727) CAP SEALER/SHRINKABLE WRAP/ SHRINK SLEEVES",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs, 269mmx63mm/230mmx65mm, SQ500/Jar Mayo/ shrinkable plastic film/ Cap seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape/ Shrinkable Seal Cap for Container Microwavable Round",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape Shrinkable Bottle Container Eye Dropper Squeeze Bottle",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Plastic Sealer Tape for Candle Container Glass Jar",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Plastic Sealer Film for Square Spray Perfume Bottle",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Peanut Bottle Containers",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "SALE 100pcs/200pcs Round and Rectangular tub PLASTIC CAP SEALER/Shrinkable plastic",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Interfolded Paper Towel Tissue White, 150 Pulls, Max. 2packs per order. Hand Towel Tissue",
+        "category": "Packaging / General Supplies",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer for Bottle Container 53mm &70mm Shrinkable Plastic Cap Seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "4-in-1 Black Blue Red Writing Pen/Ballpoint Ballpen School & Office Supplies",
+        "category": "Packaging / General Supplies",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs,38mm(M7294/M7364/M727) CAP SEALER/SHRINKABLE WRAP/ SHRINK SLEEVES",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Shrinkable Film for Macaroon, lip gloss,other",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer for Bottle/ Shrinkable Plastic Bag Film for 250ml Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs Shrink Wrap Seal Plastic/ Cap Seal &Liners for 50ml to 225ml containers",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/500pcs Pet Bottle 350ml-1500ml Cap Seal / Shrink Wrap Film / Plastic Seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "50pcs Black Pouches with Adhesive/ Parcel/ Seller Pouches",
+        "category": "Mailer / Shipping Packaging",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/ 200pcs Pre Cut Shrink Wrap Film/Sealer for Roller, Liptint, Lip gloss, Tube or Gem's bottle",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Plastic Sealer Tape for Bottle Container 100-200ml Glass Shrinkable Plastic Film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Half & Whole Shrink Wrap Film/Cap Plastic Sealer Tape /sleeves/ for New 5-200grams round",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Half & Whole Shrink Wrap Plastic Sealer Tape Cap /Sleeves/ for New 5-200grams round",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "High Quality Induction Liner/ Pressure Seal Liner",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Jumper/Finest White Plastic Sando Bag /Plastic Bag for Business (Mini Tiny Medium Large)",
+        "category": "Plastic Bags",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs plastic sealer/shrink film for 118ml to 475ml plastic container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100 / 200grams High Quality Rubber Band",
+        "category": "Packaging Accessories",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs Whole seal Plastic Can, Pre Cut, Shrink Wrap Film, Plastic Sealer, Shrinkable Film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Bag Film/ Plastic Sealer Tape for Glass Perfume Container/ Bottle 100-500ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Customized Shrink Wrap Film for Packaging Container/Plastic Sealer/Shrinkable PVC/Cap seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrinkable Wrap Bag Film/ Plastic Sealer Tape/ for New Glass Perfume Container/ Bottle",
+        "category": "Bottle / Container",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "High Quality 10pcs LF400 Clear Oval Microwavable with Free Seal for Leche/ Ube flan",
+        "category": "Bottle / Container",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Plastic Sealer Film for Cream Jar 5-200grams",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging / Plastic Sealer Tape Cap Shrinkable film SQ500/Mayo Jar",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/ 300pcs Shrink Wrap Film/ Sealer Tape for Perfume Bottle",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container 5-50grams",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container 400-800ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs PRE CUT SHRINKABLE WRAP FILM/ PLASTIC SEALER/ FOR BEAUTY PRODUCTS CONTAINER AND BOTTLE",
+        "category": "Bottle / Container",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs Shrink Wrap Film/ Cap Seal for Amber bottle Cap.",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Shrinkable Wrap Film- Macaroon, lip gloss, Jar",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs Shrink Wrap Film/ Sealer tape/ 10grams and 60ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs 30 micronsTin Can Cap Seal/ Shrink Wrap Film/ Plastic Sealer",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "ROLL SHRINKABLE PLASTIC SEAL/ SHRINK FILM (10yards)",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape to cover Bottle Medicine Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs for 118ml to 475ml plastic container",
+        "category": "Bottle / Container",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100/ 200pcs Shrink wrap film/ Shrinkable platic/ Plastic Seal for Spray bottle.",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container Serum & Spray",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Multi Purpose Round Rags",
+        "category": "Packaging / General Supplies",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Plastic Sealer Tape for Bottle Container SQ500/Mayo Jar Shrinkable Plastic Bag Film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "High Quality 100/200pcs Ice Cream Tub Shrink film / Cap seal/ Plastic sealer / Shrinkable seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Bag Film/ Plastic Seal Tape - Beauty Products Container/Bottle 30-200ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Bag Film/ Plastic Sealer Tape for New Glass Perfume Container for 250ml Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Container 30-100ml Spray Shrinkable Plastic",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging Shrinkable Plastic Sealer Tape Cap for Bottle Container Pili Jar",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Perfume Glass Container/ Shrinkable 4 -30ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "High Quality 1 Roll White Price level Sticker/ Price Tag Sticker Level for Store",
+        "category": "Label / Sticker",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape-Induction Liners for Peanut White Jar",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Round/ Square/ Oval Soap Seal Sabon Pambalot",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape Shrinkable for Perfume Men & Woman Bottle / Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "SALE! 1000pcs Clear 70mm/ 28mm Lowest Price,Shrinkable Plastic Seal,Cap seal, Shrink film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer for Bottle/ Container 300grams/250ml Shrinkable Film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Shrinkable Tape Cap Sealer for Plastic 4-30ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "High Quality & Standard Packaging Tapes, Sticker Label and Price Tag",
+        "category": "Tape / Adhesive",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Transparent Tape Bag Sealer for Plastic/ glass",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs 85ml Shrink Wrap Film, Shrinkable Sealer, Plastic Seals",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "12 INCHES RULER/ MEASURING TOOL",
+        "category": "Packaging / General Supplies",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Cap Shrinkable Plastic Sealer Tape for Pump",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging / Shrinkable Plastic Sealer Tape for Bottle Container Tin Can",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Plastic Sealer Tape for Bottle Microwavable Container RO85, R070 &LF400 Shrinkable",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/ 200pcs High Quality Shrink Wrap Film, 35microns, 250ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging / Shrinkable Plastic Sealer Tape Cap for Bottle Container 100-200ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging Shrinkable Plastic Sealer Tape Cap for Honey Jar & Induction Liners",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Plastic Sealer Film for Cream Jar Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "5KGS Shrink Wrap Plastic Sealer for Bottle Shrinkable Plastic Bag Tube/ Shrinkable Film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "5yards/ 10yards PVC ROLL Shrink Wrap Plastic Sealer Tape for Bottle Container Shrinkable Plastic",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Plastic Sealer for Bottle Container 28mm &30MM(M7301/M7314/M7194)Shrinkable plastic",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100 /500pcs, 53mm(M7171), Shrinkable Plastic Seal/ Cap Seal/ Shrink film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrinkable Wrap Bag Film, Plastic Sealer Tape for Perfume Glass Container Bottle10 -50ml",
+        "category": "Bottle / Container",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100/500pcs, HIGH QUALITY ROUND TUB SEALER(190mmx40mm)Shrinkable plastic film (virgin pvc)",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "500pcs/1,000pcs Round and Rectangular tub PLASTIC CAP SEALER/Shrinkable plastic",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer for Bottle Container 200-475ml Shrinkable Plastic Bag",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs High Quality Shrink Wrap Film 35 microns for Lip gloss or nose inhaler",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container Wafer",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs, Half & Whole Seal Pre-Cut Shrink Wrap Film/Cap seal/Shrinkable sleeves/ Plastic Sealer",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "10pcs/20pcs Ziplock Bag / Zipper Bag /Resealable Pouch Bag/ Reusable Pouch for Food and Non Food",
+        "category": "Plastic Bags",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Sealer Tape for Bottle Container Facial foam 250ml Shrinkable Plastic Bag Film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/ 200pa Shrink Wrap Film/ Plastic Seal for 10ml dropper",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/ 50pairs Plastic Gloves Disposable for Food & Non Food Eco Friedly",
+        "category": "Packaging Accessories",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Plastic Film Packaging for Bottle Container Sealer & Induction Liners/ Pressure Seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "50pcs 3x6 1/2 OPP Plastic w/ Adhesive for Bills",
+        "category": "Packaging Accessories",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Shrinkable70mm(M7234/M7303/M7208/M7365/M7041)",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Container 30-200ml Shrinkable Plastic Film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs Serum Shrink Wrap Film, Shrinkable Sealer, Pre Cut Sealer",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Film Plastic Packaging Shrinkable Plastic Sealer Tape for Spray Bottle Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container 5-200grams",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs Shrink Wrap Film/ Sealer Tape for 5ml to 20ml container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer for Bottle Container 5-50grams Shrinkable Plastic Bag Film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Plastic Sealer for Bottle Container 30-100ml Perfume",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Container 100-300ml Shrinkable Plastic Seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Container 20-150ml Shrinkable Plastic Film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs-Shrink Wrap Film Plastic Packaging Shrinkable Sealer Tape for Mist Spray/ Trigger Bottle",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100/ 200pcs Whole seal w/ perforate for Lush Container, Shrink wrap seal, Plastic Seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Glass Perfume Containers",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape to cover Bottle or Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100pc, High quality Rectangular / Round tub1000-1250ml CAP SEALER/ SHRINKABLE PLASTIC SEAL",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs Shrink Wrap Film/ Cap Sealer for Wafer plastic container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging / Shrinkable Plastic Sealer Tape Cap for Bottle Container 30-120ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Container /New Glass Perfume/ Shrinkable",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container 30-200ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs, Pre-Cut Shrink Wrap Film/Cap seal/Shrinkable sleeves/ Plastic Sealer",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs Shrinkable film/ sealer tape/ for 5g to 30ml plastic & glass container",
+        "category": "Bottle / Container",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Transparent Plastic Sealer Tape Film for 1000ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "5 KGS SHRINK WRAP ROLLS/ SHRINKABKE FILM WRAP",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100 pcs, 43mm(gatorade cap size), Shrinkable Plastic Seal/Cap Seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "10pcs Red Money Envelope / Chinese Angpao",
+        "category": "Packaging / General Supplies",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Guaranteed Authentic Tape for packaging, Masking, Fragile Sticker, Adhesive tape, Price tag label",
+        "category": "Tape / Adhesive",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "50pcs Black Courier Pouch with Adhesive Parcel Seller Pouches Mailing Parcel Plastic Bag",
+        "category": "Mailer / Shipping Packaging",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Cap Plastic Sealer Tape for Various Glass",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs Shrink film / Cap Seal for Medicine Container/ Plastic Sealer",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs High Quality Seal for Bottom and Flip Cap 100-250ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Plastic Sealer Tape Shrinkable Cap Microwavable Round Rectangular Tub Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs Black Series Shrink Wrap Film/ Plastic Cap Seal for Lapad/ Bilog/ Longneck",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Plastic Film for Pump Spray Bottom Bottle Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer for Bottle Container 10-200ml Squeeze Shrinkable Plastic Seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "BAMBOO TOOTHPICK with CASE",
+        "category": "Packaging / General Supplies",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Transparent Tape Bag Sealer for Plastic 100-250ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Cap Shrinkable Plastic Sealer Tape for Honey Jar",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Film/ Plastic Cap Sealer Tape for Tub Containers Colored & Clear",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Container 5g to 30ml Shrinkable Plastic Film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Heavy Duty Heat Gun 2000W Hot Air Blower Gun, 100/300mm Impulse Heat Sealer for Plastic Packaging",
+        "category": "Packaging Accessories",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "1 Pair Hand Gloves Made From Terylene Cotton",
+        "category": "Packaging Accessories",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container 10-200ml Squeeze",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "High Quality 1 Roll White Price level Sticker/ Price Tag/ Price sticker",
+        "category": "Label / Sticker",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Transparent Plastic Sealer Tape Film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container 25ml-300ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container in grams",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "CLING WRAP / FOOD WRAP",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "(25pcsx2) Carbonized Duplicate Receipts Resibo Normal and Thick Carbon Paper",
+        "category": "Packaging / General Supplies",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs PVC Shrink Wrap Plastic Sealer Tape Shrinkable Film for New Glass Perfume Bottle Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/ 200pcs Shrink Wrap Seal/ Plastic Seal for 1ml to 3ml Serum",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs Cap Sealer for Pet bottle/Kutkutin jar/Shrinkable plastic seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "High Quality Utility Sharp Cutter Knife, Plastic Handle Cutting Tools",
+        "category": "Packaging Accessories",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Guaranteed Authentic Tape for packaging, Masking, Fragile Sticker, Yellow tape, Price tag label",
+        "category": "Label / Sticker",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Plastic Sealer Film for Pump Bottle Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging for Bottle Container Cap Sealer for Sport Caps and lift cap",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Sealer Shrinkable Film Lip tint /Roller Bottle/ Gem/ Square/ Tube/ Serum",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs, Half Seal Pre-Cut Shrink Wrap Film/Cap seal/Shrinkable sleeves/ Plastic Sealer",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Plastic Sealer Tape for Pet bottle Kutkutin Jar",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs Ice Cream Tub Shrink film / Cap seal/ Plastic sealer",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs Shrink Cap Seal or Plastic Sealer for Honey Glass jar and small glass jar",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs Ice Cream Tub Shrinkable Wrap film / Plastic Cap seal tape for Kraft Brown Tub Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Shrinkable Tape Cap Sealer for Lush",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "High Quality Rubber Band/ Lastiko/ Goma/ Jelly Rubber Band/ Yellow & Multi Color/ Elastic/",
+        "category": "Packaging Accessories",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "1PIECE OF TAPE MEASURE/ Tape Measuring Tool",
+        "category": "Tape / Adhesive",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Transparent Tape Bag Sealer for 30-100ml Spray",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100 /200pcs, 53mm & 70mm, Shrinkable Plastic Seal/ Cap Seal/ Shrink film for peanut butter jar",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer for Bottle Container 300-500ml Shrinkable Plastic Bag Film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Perfume Bottle Container Shrinkable Tape Cap Sealer",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container 100-300ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrinkable Wrap Bag Film, Plastic Sealer Tape for New Perfume Glass Bottle and Container",
+        "category": "Bottle / Container",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Bag Film/ Plastic Cap Sealer Tape -Popsicle, Macaroon, Glass Bottles, Serum",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Transparent Plastic Sealer Tape Film/ Shrinkable",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Shrinkable Film Plastic Bag Serum & Spray",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/500pcs, 82mm(M7154), Shrinkable Plastic seal/Cap seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Peanut Butter Plastic Jar with free sealer",
+        "category": "Bottle / Container",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "8x11\" Plastic Labo Food graded, approx. 100pcs.",
+        "category": "Plastic Bags",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer for Peanut Bottle Container Shrinkable Plastic Bag",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Plastic Sealer Tape for Eye Dropper Squeeze Bottle",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "2Rolls- Kitchen Towel Tissue 2ply Disposable Clean Lazy Rag Paper Kitchen Oil Absorbent Dish Towel",
+        "category": "Packaging / General Supplies",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Half & Whole Shrink Wrap Plastic Sealer Tape Cap /Sleeve for Round Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Authentic Platinum CLEAR packaging tape, 2\"& 3/4\" & Fragile tape (guaranteed 100meters), 3/4Masking",
+        "category": "Tape / Adhesive",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "SALE 100pcs Round and Rectangular tub PLASTIC CAP SEALER/Shrinkable plastic",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Bag film/ Sealer Sleeves tape for Eye Dropper Squeeze Bottle",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200ml (M7208) straight/wide mouth glass jar with FREE 30pcs PLASTIC SEALER",
+        "category": "Bottle / Container",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Approx. 100pcs Ice Bag Plastic (Shure) Thick & Reliable",
+        "category": "Plastic Bags",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Bag Film/ Plastic Sealer Tape for New beauty products Serum & Spray Bottle",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/ 200pcs High Quality Shrink Wrap Film, 35microns for Facial foam 250ml container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs for 125ml to 375ml plastic container seals/ Shrink wrap",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Plastic Sealer Film for Trigger Bottle 100-250ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape Shrinkable for Glass Container/ Bottle for 25ml-300ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Containers",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Transparent Plastic Sealer Tape 500ml Trigger",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container Purfume",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100/200 pcs,58mm (M7361/M7263/M7101/M7438/M7177/M7743/RP-29),Cap seal/ Shrinkable plastic seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs Shrink wrap seal for containers sizes 43mm-82mm",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs PRE CUT SHRINKABLE PLASTIC SEAL/ SHRINK SLEEVES/ SHRINK WRAP FILM/ PLASTIC SEALER",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging / Shrinkable Plastic Sealer Tape Cap Round/Cube/Square",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging / Shrinkable Plastic Sealer Tape Cap for Bottle Container Pili Jar",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Sealer Shrinkable Film Lip tint /Roller Bottle/ Gem/ Square/ Tube/ Serum",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Plastic Sealer Tape for Bottle Container 200-500ml Shrinkable Plastic Bag Film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging / Shrinkable Plastic Sealer Tape Cap for Container Lapad / Longneck",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Plastic Sealer Tape for Bottle Container Honey Jar Shrinkable Plastic Bag Film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs Waybill Sticker Thermal Sticker Paper A6 (100mmx150mm)",
+        "category": "Label / Sticker",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Container Pump Shrinkable Plastic Seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs Shrink Wrap Film/ Plastic Seal for 10ml Round Deffuser",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Shrinkable Tape Cap Sealer for Plastic 125-375ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/300pcs Shrink Wrap Film/ Tape Sealer for 10ml to 30ml for Perfume container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/ 200pcs Shrink Wrap Film for 10ml-200ml Squeeze Containers",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Sealer for Plastic Bottle Container 200-500ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Plastic Packaging /Shrinkable Sealer Tape for Bottle Container Popsicle/Macaroon",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs 6oz/9oz Plastic bottle sealer, Shrinkable plastic seal, Cap sealer",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Sealer Tapefor Bottle Glass Perfume Container 50-85ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "High Quality15pcs to 70pcs 250ml/350ml/500ml/1000ml Pet bottle with free plastic sealer sold per box",
+        "category": "Bottle / Container",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container Perfume Spray",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "50pcs 3x6 1/2 OPP Plastic with Adhesive Clear for Bills Resealable",
+        "category": "Plastic Bags",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "4oz/ 120ml (M7361) 24pcs Glass Jar Bottle sold per box with free 30pcs plastic sealer",
+        "category": "Bottle / Container",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for 250ml Bottle Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging / Shrinkable Plastic Sealer Tape Cap for Bottle Container 30-180ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100pcs Pre Cut PVC Shrink Wrap Plastic Sealer Tape Shrinkable Bag Glass Perfume Bottle/ Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "250grams Gin Cap/ Long neck 750ml Cap/Ketchup Cap/Lapad Cap/ Liners /Shrink Wrap Plastic Sealer",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Shrinkable Tape Cap Sealer for Brown Kraft Tub",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/ 500pcs Pre Cut Shrink Wrap Film/ Sealer for Pump Containers",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "BAMBOO TOOTHPICK for food men and women with CASE",
+        "category": "Packaging / General Supplies",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/10yards/20yards SOAP SEAL SHRINK WRAP TUBE TYPE / SINGLE SHEET",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Plastic Sealer for Bottle Container 53mm &70mm Peanut Jar Shrinkable Plastic Cap",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/500pcs shrink film/plastic sealer for 500ml milk bottle (hdpe)",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "12pcs Safety Pins / Perdible",
+        "category": "Packaging / General Supplies",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "SALE! 1000pcs 70mm 119mmx30mm Shrink wrap film / Cap seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Shrinkable Film Tape Cap Sealer for 10-100grams",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs Plastic bag film/sealer for Eye Dropper Plastic Squeeze Bottle",
+        "category": "Bottle / Container",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container 5 Liter",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "5KGS Roll Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Containers",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging Shrinkable Plastic Sealer Film for Canister Container- 1L,1.75L &3.75L",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "1000pcs 70mm Pre Cut PVC Shrink Wrap Plastic Sealer Tape Shrinkable Cap Sealer for Glass or Jar",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100pcs,High Quality Shrinkable Wrap Film/ Plastic Cap Sealer/ Sealer Tape for Bottles and Containers",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "1 roll/ 100meters 24 inches Roll Wrap / Shrinkable Film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container Lengua Jar",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Cap Plastic Sealer Tape use for Triģger 100-250ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer for Bottle Container Square Tin Can/ Shrinkable Plastic Bag",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100/500pcs Pump Sealer / Cap Bottom Sealer / Shrink wrap / Shrinkable film / Plastic Seal / Cap Seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Container 63mm(M7471 pimiento/M736/M735)",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "1000pcs Shrink Wrap Film/ Plastic Seal water refilling (small cap/ big cap/faucet/umbrella seal)",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "PREMIUM TUBE ROLL WRAP SHRINKABLE PLASTIC SEAL/ SHRINK WRAP FILM (10yards) FOR CONTAINER & BOTTLE",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Plastic Sealer Tape for Bottle Container Jerry's Can Square Shrinkable Plastic Film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "High Quality 50pcs Plastic Printed Bag with designed layout",
+        "category": "Plastic Bags",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs Shrinkable Film, Shrink Wrap Film, Plastic Seal for perfume bottle",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "30microns PVC Shrink Wrap Bag Film, Plastic Sealer Tape for New Perfume Glass Bottle and Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "PVC Black Shrink Wrap Plastic Sealer Tape for Bottle Container Lapad/Longneck Shrinkable Plastic",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container 10-50g",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Cap Shrinkable Plastic Sealer Tape for 5g to 30ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs Liptint /Roller Bottle/ Gem/ Square/ Tube/ Serum Pre-cut shrink wrap / Plastic Sealer",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging / Shrinkable Plastic Sealer Tape Cap for Bottle Container 82mm",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100pcs per Pack White Sando Bag",
+        "category": "Plastic Bags",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Film/ Plastic Cap Sealer Tape / Pump Bottom Container/ Bottle",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Transparent Plastic Sealer Tape for Bell Bottle",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Container 100-250ml Shrinkable Plastic Film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs High Quality Shrinkable Sealer for Serum, Roller & Lip balm",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Sealer for Perfume Glass Bottle Container 50-85ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Plastic Sealer Film for Perfume Oblique Glass Bottle",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs Serum & Spray Sealer, Shrinkable Wrap Film, Plastic Sealer",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "370ml (M7101) glass jar bottle",
+        "category": "Bottle / Container",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer for Bottle /Container /Induction Liners for Peanut White Jar",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "1 pack Counter/ Sandwich Bag, approx 100pcs",
+        "category": "Plastic Bags",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape Cap Shrinkable -Rectangular Tub Microwavable Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100-500pcs Wholeseal for 1 Liter Jar Canister",
+        "category": "Bottle / Container",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs, Pre-Cut Shrink Wrap Film/Cap seal/Shrinkable sleeves/ Plastic Sealer",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Approx. 100pcs Ice Bag Plastic (Shure) Thick & Reliable Counter/ Sandwich Bag",
+        "category": "Plastic Bags",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging / Shrinkable Plastic Sealer Tape Cap for Honey Jar & Induction Liners",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs High Quality Shrik Wrap Seal, Skrinkable Film Wrap for Perfume Bottle 10ml to 50ml",
+        "category": "Bottle / Container",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "1000pcs Loose Pack Shrink Wrap Plastic Packaging for Bottle Container Cap Plastic Sealer Tape",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Glass Perfume 10-30ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Black Trash Bag Sold per Pack.",
+        "category": "Plastic Bags",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Shrinkable Film Bag for Container 10-120ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs Shrink wrap seal for containers sizes 43mm-82mm",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "High Quality 100 /200pcs, 53mm & 70mm,Shrinkable Plastic/Cap Seal/ Shrink film for peanut butter jar",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer for Bottle Container 5 Liter/ Shrinkable Plastic Bag",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Cap Shrinkable Plastic Sealer Tape for 20-150ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container 118ml to 475ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs High Quality Shrink Wrap Film for Acrylic Containers 5g to 15g, round, cube, square.",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Plastic Sealer Tape for Bottle Container Flip Cap 100-250ml Flip Cap & Bottom",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Container Wafer Shrinkable Plastic Seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container 250-300ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100pcs, 63mm(M7471 pimiento/M736/M735), Shrinkable Plastic Seal/Cap seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "10pcs SILICA GEL DESICCANT FOOD AND NON FOOD GRADE/ MOISTURE ABSORBENT",
+        "category": "Packaging Accessories",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrinkable Wrap Film/ Plastic Cap Sealer Tape for Round Tub Container- Sold per bundle",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs, 53mm(M7171), Shrinkable Plastic Seal/ Cap Seal/ Shrink film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "1000pcs Loose Pack Shrink Wrap Plastic Packaging for Bottle Container Tape Cap Sealer for Plastic",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "50pcs Black Courier Pouch with Adhesive/ Parcel/ Seller Pouches Mailing Parcel/ Plastic Bag",
+        "category": "Mailer / Shipping Packaging",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100 /200pcs, 53mm & 70mm, Shrinkable Plastic Seal/ Cap Seal/ Shrink film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Eye Dropper Squeeze Bottle",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Plastic Sealer Film for Lip Gloss Inhaler Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Cap Plastic Sealer Tape 100-250ml Pump & Spray",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs Shrink Wrap Film/ Cap Sealer for Pili Jar",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "1Pair Cloth Hand Gloves for Men & Women finger Protection, Thin Nylon, Wear- Resistant, Work Safety",
+        "category": "Packaging Accessories",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Sealer & Induction Liners/ Pressure Seal 50-225ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging / Shrinkable Plastic Sealer Tape Cap for Container 1-3ml Serum",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container Roller/ Spray",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Plastic Sealer Film for Round Cream Jar Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs 240mmx90mm Shrinkable seal / Shrink wrap seal/ Plastic seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Plastic Sealer Film for Cream Jar 20-150ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs Shrinkwrap/plastic seal/wholeseal for 100g cream tub jar",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "5KGS Roll Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "High Quality PE Induction Liner/ Pressure Seal Liner for Bottle, Container, Foil Seal",
+        "category": "Bottle / Container",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging / Shrinkable Plastic Sealer Tape Cap for Bottle Container 43-82mm",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "15pcs to 70pcs 250ml/350ml/500ml/1000ml Pet bottle with free plastic sealer sold per box",
+        "category": "Bottle / Container",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "12pcs Silver Safety Pins Perdible Aspile, Cheapest Good Quality",
+        "category": "Packaging / General Supplies",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Plastic Film for Spray Seal Container / Clear Shrinkable Plastic Tape",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrinkable Wrap Bag Film, Plastic Sealer Sleeves tape for Perfume Glass Container/Bottle",
+        "category": "Bottle / Container",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/500pcs 400ml to 880ml Containers Shrink Wrap Film/ Shrinkable Plastic Seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "High Quality100pcs/200pcs Black Series Shrink Wrap Film/ Plastic Cap Seal for Lapad/ Bilog/ Longneck",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer for Bottle 38mm(M7294/M7364/M727) Shrinkable Plastic Cap Seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs High Quality Shrink Wrap for Pump and Spray 100-250ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "SALE 100pcs/500pcs 30microns Shrink wrap film/Cap seal for rectangular",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "CLING WRAP / FOOD WRAP 12\"×300m 17microns",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs Round Container Shrink Wrap Film/ Cap Seal/ Plastic Seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Container Crystal Jar & Induction Liners",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Container 10-50g Shrinkable Plastic Cap Seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Packaging Tape, Scotch Tape, Fragile Tale, Price Tag Label, Thank you Tape label",
+        "category": "Tape / Adhesive",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "3 PCS OF PERMANENT MARKER",
+        "category": "Packaging / General Supplies",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Microwavable Container 1000-2500ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs Shrinkable seal / Shrink wrap seal/ Plastic seal for 250ml-300ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Shrinkable Plastic Sealer Tape Lip gloss inhaler",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Shrinkable Plastic Cap Sealer 125ml to 375ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs High Quality Shrink Wrap Film for Triģger 100-250ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Transparent Tape Bag Sealer for Plastic 200-500ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Plastic Sealer Film for Spray Bottle 30-100ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Shrinkable Film for Container 400-800ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "3 PCS OF BLACK PERMANENT MARKER PEN SCHOOL SUPPLIES MARKER PENTEL PEN",
+        "category": "Packaging / General Supplies",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer for Bottle Container 10ml Round Diffuser Shrinkable Plastic",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "2Rolls- Kitchen Towel Tissue, 2ply, Max. of 2Rolls per order",
+        "category": "Packaging / General Supplies",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs Shrink Wrap Cap Seal/ Shrinkable Plastic Sealer for Various Glass Bottle",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/ 200pcs Shrink Wrap Film for 30ml to 100ml Plastic Spray",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "High Quality 100/ 200pcs Pre Cut Shrink Wrap Film/Sealer for Roller, Liptint, Lip gloss, Tube or Gem",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "10pcs Red Money Envelope for Money/ Red Chinese Angpao/ Money Envelope for Gift",
+        "category": "Packaging / General Supplies",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Shrinkable Tape Cap Sealer for Plastic 25-30ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Container Tin Can Shrinkable Plastic Seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "High Quality Cutter Knife",
+        "category": "Packaging Accessories",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "High Quality 100pcs, 53mm & 70mm,Shrinkable Plastic/Cap Seal/ Shrink film for peanut butter jar",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "1000pcs Shrink filmfor water refilling (small cap/ big cap/faucet/umbrella seal) Plastic sealer",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Sealer Tape for Perfume Glass Bottle 30-60ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Half & Whole Shrink Wrap Plastic Sealer Tape Cap /sleeves/ for New 5-200grams round",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape Shrinkable Plastic Bag for Bottle Container Cap Round",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "High Quality Rubber Band/ Lastiko/ Goma/ Jelly Rubber Band",
+        "category": "Packaging Accessories",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/500pcs 500-1000ml Plastic Container/ Jerry's Can Square/ Shrink Wrap Film/ Plastic Sealer",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Party Set Disposable Food Graded Plastic Spoon, Fork, Glass & Silver Coated Paper Plate Utensil Set",
+        "category": "Packaging / General Supplies",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape to cover Bottle or Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Cap Plastic Sealer Tape for Plastic Pill",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Container 60-100ml,5grms Shrinkable Plastic",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs Shrink Wrap Film for Tub Containers 1000ml-2500ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Shrinkable Tape Cap Sealer for Plastic10-20ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Cap Shrinkable Plastic Sealer Tape for serum",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container 10-120ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Shrinkable Film Plastic Bag for Serum/Roller",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100 pcs, ROUND CONTAINER, SHRINKABLE PLASTIC SEAL/ CAP SEAL",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Film/ Plastic Sealer Tape for New Glass Container/ Bottle for 125ml to 375ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Plastic Sealer Film for Squeeze Container 10-200ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs Shrink Wrap Film/ Cap Seal for Beehive Style Container 125-500ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/ 50pairs Disposable Plastic Gloves",
+        "category": "Packaging Accessories",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Film PVC and POF Plastic Shrink Wrap Clear Plastic Wrap Sealer for Shoes, Boxes & Books",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Sealer Tape for Screw Bottle and Deodorant Containers",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Plastic Sealer for Serum &Spray Bottle Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Shrinkable Tape Cap Sealer for Perfume bottle",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "1PIECE OF TAPE MEASURE",
+        "category": "Tape / Adhesive",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Sealer for Perfume bottle Spray 4-30ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container Popsicle/Macaroon",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Film/ Plastic Sealer Tape for New Container/ Bottle118ml to 475ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Spray Bottle Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Shrinkable Tape Cap Sealer for Plastic 1oz/ 4oz",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "High Quality 100pcs TUB Containers SHRINKABLE PLASTIC SEAL",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Plastic Sealer Film for Macaroon, lip gloss, Jar",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/500pcs, High quality Rectangular / Round tub1000-1250ml CAP SEALER/ SHRINKABLE PLASTIC SEAL",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container 250ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs Shrink Wrap Film/ Sealers tape for 100ml to 300mll, PreCut",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging / Plastic Sealer Tape for Bottle Container 10ml Round Diffuser",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100 pcs,58mm (M7361/M7263/M7101/M7438/M7177/M7743/RP-29),Cap seal/ Shrinkable plastic seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs Shrink Wrap Seal/ Liners/ Cap Seal for 50ml to 225ml medicine containers",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Guaranteed 100m 2\" & 3/4\" Authentic CLEAR packaging, Masking, Fragile and Yellow tape",
+        "category": "Tape / Adhesive",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100/ 500pcs, 80mmx52mm Clear Shrinkable Plastic / Cap Seal for 5 Liter",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Thick Bluish Shrink Wrap Film for Packaging Container/Shrinkable Plastic sea for Bottle",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Premium Quality Sticker, No Video, No Refund, No Return, Fragile, Price Tag label, waterproof paper",
+        "category": "Label / Sticker",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging / Shrinkable Plastic Sealer Tape Cap for Bottle Container 58mm",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs PVC Shrink Wrap Film Plastic Packaging Shrinkable Sealer for Automizer Spray/ Pen Perfume",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Shrinkable Tape Cap Sealer for PlasticJerry's Can",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Film/ Plastic Cap Sealer Tape for Ice Cream/ Kraft Brown Tub Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Colored Sticker for Packaging/ Fragile Handle Sticker / No Sticker No Refund Sticker/Price Tag label",
+        "category": "Label / Sticker",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container 6oz/9oz",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer for Bottle Glass Perfume Container 50-85ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100/500pcs, 63mm(M7471 pimiento/M736/M735), Shrinkable Plastic Seal/Cap seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Transparent Tape Bag Sealer for Plastic 10ml drop",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging / Shrinkable Plastic Sealer Tape for Bottle Container eye brow/liner",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Authentic Platinum CLEAR packaging tape, 2inches & 3/4 inches(guaranteed 100meters,43microns)",
+        "category": "Tape / Adhesive",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container 60-100ml & 5grms",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "100/200pcs Liptint and Roller Bottle Pre-cut shrink wrap /Plastic Sealer",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging / Shrinkable Plastic Sealer Tape for Perfume -Glass Bottle & Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs, 70mm/53mm/28mm Shrinkable plastic/ Cap Seal - Colored & Printed",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Guaranteed 100m 2\" & 3/4\" Authentic CLEAR packaging, Masking & Fragile tape",
+        "category": "Mailer / Shipping Packaging",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Film Tape Cap Sealer for Amber Glass Bottle",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container 200g-300g 250ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Container Pili Jar Shrinkable Plastic Seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs Shrink Wrap Plastic Packaging for Bottle Container Shrinkable Tape Sealer for various perfume",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Shrinkable Tape Cap Sealer for Glass Amber",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs/200pcs Shrink Wrap Film/Plastic Seal for 200ml to 500ml Various Plastic Containers",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Plastic Sealer for Pump Spray Bottom Cap Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "High Quality Rubber Band/ Lastiko/ Goma/ Jelly Rubber Band/ Yellow & Multi Color/ Elastic",
+        "category": "Packaging Accessories",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "30microns PRE CUT PVC Shrinkable Wrap Bag Film/ Plastic Sealer Tape for New Beauty Product Container",
+        "category": "Bottle / Container",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Plastic for Roller, Liptint, Lip gloss, Tube Gem",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape Cap for Bottle Containers",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Bottle Container 70mm",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Cap Sealer for Sport Caps and lift cap",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Plastic Sealer for Perfume Glass Bottle Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "10pcs/20pcs Ziplock Bag / Zipper Bag /Resealable Bag",
+        "category": "Plastic Bags",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Plastic Sealer Tape for Bottle Container 43-82mm Sizes Shrinkable Plastic Bag Film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "High Quality 100pcs/ 200pcs Shrink Wrap Seal/ Shrinkable Plastic Sealer Various container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "New Black Trash Plastic Bag Sold per Pack/ Garbage Bag",
+        "category": "Plastic Bags",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs per pack Waybill Sticker Thermal Sticker Paper A6 (100mmx150mm)",
+        "category": "Label / Sticker",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Resealable bags/ Zipper pouch/ Zip Plastic/ Multipurpose Bag/ Clear Plastic Bag for Food & Non-Food",
+        "category": "Plastic Bags",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Plastic Sealer Tape for Bottle Shrinkable Plastic Film Bag for Tube Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging /Shrinkable Plastic Sealer Tape for Tube Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Container Cap Plastic Sealer Tape Shrinkable film for dropper",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "PVC Shrink Wrap Plastic Sealer Tape for Bottle Container Beehive Style 125-500ml Shrinkable Plastic",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Shrink Wrap Plastic Packaging for Bottle Container Plastic Sealer Tape for Pet bottle/Kutkutin Jar",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100/500pcs, 70mm(M7234/M7303/M7208/M7365/M7041), Shinkable plastic seal/ Cap seal/ Shrink film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "10 or 20pcs CAPS- 58mm for Food Processed Containers",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "1000pcs Loose Pack PVC Shrink Wrap Plastic Sealer Tape for Bottle Container Shrinkable Plastic Cap",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs, 70mm(M7234/M7303/M7208/M7365/M7041), Shinkable plastic seal/ Cap seal/ Shrink film",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Plastic Sealer Film for Pump & Spray Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Film for Packaging Container/Shrinkable Plastic seal/Cap seal for Glass Bottle",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "5yards/10yards Roll Shrinkable Film / Roll Shrink Wrap / Plastic Seal",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Plastic Packaging Shrinkable Sealer Film for Trigger Spray Flip Cap 30-200ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape for Bottle Shrinkable Film Plastic Bag for New100-500ml",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "100pcs Calypso Plastic LABO Plastic Bag Food Graded, Durable, Flexible, Odorless, Supot/ Bag",
+        "category": "Plastic Bags",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "Pre Cut PVC Shrink Wrap Plastic Sealer Tape Shrinkable Microwavable Round &Rectangular Tub Container",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      },
+      {
+        "raw_product_name": "250ml/350ml/500ml/1000ml Pet bottle with free plastic sealer sold per box",
+        "category": "Bottle / Container",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "200pcs Shrink Wrap Film for Packaging Container/Shrinkable Plastic seal/Cap seal for Pefume Bottle",
+        "category": "Shrink Wrap / Cap Seal",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.449+00:00"
+      },
+      {
+        "raw_product_name": "High Quality 1 Roll White Price label Sticker/ Price Tag Sticker Label for Store",
+        "category": "Label / Sticker",
+        "mapping_status": "Mapped",
+        "updated_at": "2026-11-19T13:53:13.448+00:00"
+      }
+    ],
+    "geographicMapping": [
+      {
+        "raw_province": "Visayas",
+        "raw_city": "Bohol",
+        "region": "Visayas",
+        "province": "Bohol",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "North Luzon",
+        "raw_city": "Apayao",
+        "region": "North Luzon",
+        "province": "Apayao",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "North Luzon",
+        "raw_city": "Tarlac",
+        "region": "North Luzon",
+        "province": "Tarlac",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Visayas",
+        "raw_city": "Eastern Samar",
+        "region": "Visayas",
+        "province": "Eastern Samar",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Mindanao",
+        "raw_city": "South Cotabato",
+        "region": "Mindanao",
+        "province": "South Cotabato",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "South Luzon",
+        "raw_city": "Laguna",
+        "region": "South Luzon",
+        "province": "Laguna",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Mindanao",
+        "raw_city": "Misamis Oriental",
+        "region": "Mindanao",
+        "province": "Misamis Oriental",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Mindanao",
+        "raw_city": "Zamboanga Del Sur",
+        "region": "Mindanao",
+        "province": "Zamboanga Del Sur",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "North Luzon",
+        "raw_city": "Cagayan",
+        "region": "North Luzon",
+        "province": "Cagayan",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "South Luzon",
+        "raw_city": "Cavite",
+        "region": "South Luzon",
+        "province": "Cavite",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "North Luzon",
+        "raw_city": "Abra",
+        "region": "North Luzon",
+        "province": "Abra",
+        "updated_at": "2026-11-19T13:53:14.478+00:00"
+      },
+      {
+        "raw_province": "Mindanao",
+        "raw_city": "Sultan Kudarat",
+        "region": "Mindanao",
+        "province": "Sultan Kudarat",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "South Luzon",
+        "raw_city": "Camarines Norte",
+        "region": "South Luzon",
+        "province": "Camarines Norte",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Visayas",
+        "raw_city": "Capiz",
+        "region": "Visayas",
+        "province": "Capiz",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "South Luzon",
+        "raw_city": "Albay",
+        "region": "South Luzon",
+        "province": "Albay",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "South Luzon",
+        "raw_city": "Oriental Mindoro",
+        "region": "South Luzon",
+        "province": "Oriental Mindoro",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Visayas",
+        "raw_city": "Negros Occidental",
+        "region": "Visayas",
+        "province": "Negros Occidental",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Metro Manila",
+        "raw_city": "Metro Manila",
+        "region": "Metro Manila",
+        "province": "Metro Manila",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "South Luzon",
+        "raw_city": "Marinduque",
+        "region": "South Luzon",
+        "province": "Marinduque",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Mindanao",
+        "raw_city": "Sulu",
+        "region": "Mindanao",
+        "province": "Sulu",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "South Luzon",
+        "raw_city": "Romblon",
+        "region": "South Luzon",
+        "province": "Romblon",
+        "updated_at": "2026-11-19T13:53:14.478+00:00"
+      },
+      {
+        "raw_province": "Mindanao",
+        "raw_city": "Lanao Del Sur",
+        "region": "Mindanao",
+        "province": "Lanao Del Sur",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "South Luzon",
+        "raw_city": "Aurora",
+        "region": "North Luzon",
+        "province": "Aurora",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "North Luzon",
+        "raw_city": "Pangasinan",
+        "region": "North Luzon",
+        "province": "Pangasinan",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Mindanao",
+        "raw_city": "Dinagat Islands",
+        "region": "Mindanao",
+        "province": "Dinagat Islands",
+        "updated_at": "2026-11-19T13:53:14.478+00:00"
+      },
+      {
+        "raw_province": "South Luzon",
+        "raw_city": "Rizal",
+        "region": "South Luzon",
+        "province": "Rizal",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Mindanao",
+        "raw_city": "Sarangani",
+        "region": "Mindanao",
+        "province": "Sarangani",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "South Luzon",
+        "raw_city": "Quezon",
+        "region": "South Luzon",
+        "province": "Quezon",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Mindanao",
+        "raw_city": "Agusan Del Sur",
+        "region": "Mindanao",
+        "province": "Agusan Del Sur",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Visayas",
+        "raw_city": "Guimaras",
+        "region": "Visayas",
+        "province": "Guimaras",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Mindanao",
+        "raw_city": "Surigao Del Sur",
+        "region": "Mindanao",
+        "province": "Surigao Del Sur",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "North Luzon",
+        "raw_city": "Aurora",
+        "region": "North Luzon",
+        "province": "Aurora",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Mindanao",
+        "raw_city": "Maguindanao",
+        "region": "Mindanao",
+        "province": "Maguindanao",
+        "updated_at": "2026-11-19T13:53:14.478+00:00"
+      },
+      {
+        "raw_province": "Mindanao",
+        "raw_city": "Misamis Occidental",
+        "region": "Mindanao",
+        "province": "Misamis Occidental",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Visayas",
+        "raw_city": "Siquijor",
+        "region": "Visayas",
+        "province": "Siquijor",
+        "updated_at": "2026-11-19T13:53:14.478+00:00"
+      },
+      {
+        "raw_province": "North Luzon",
+        "raw_city": "Ilocos Sur",
+        "region": "North Luzon",
+        "province": "Ilocos Sur",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Mindanao",
+        "raw_city": "Zamboanga Sibugay",
+        "region": "Mindanao",
+        "province": "Zamboanga Sibugay",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "South Luzon",
+        "raw_city": "Palawan",
+        "region": "South Luzon",
+        "province": "Palawan",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Mindanao",
+        "raw_city": "Lanao Del Norte",
+        "region": "Mindanao",
+        "province": "Lanao Del Norte",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "North Luzon",
+        "raw_city": "Bataan",
+        "region": "North Luzon",
+        "province": "Bataan",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Visayas",
+        "raw_city": "Leyte",
+        "region": "Visayas",
+        "province": "Leyte",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "North Luzon",
+        "raw_city": "Isabela",
+        "region": "North Luzon",
+        "province": "Isabela",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Visayas",
+        "raw_city": "Northern Samar",
+        "region": "Visayas",
+        "province": "Northern Samar",
+        "updated_at": "2026-11-19T13:53:14.478+00:00"
+      },
+      {
+        "raw_province": "North Luzon",
+        "raw_city": "Mountain Province",
+        "region": "North Luzon",
+        "province": "Mountain Province",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Visayas",
+        "raw_city": "Negros Oriental",
+        "region": "Visayas",
+        "province": "Negros Oriental",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Visayas",
+        "raw_city": "Southern Leyte",
+        "region": "Visayas",
+        "province": "Southern Leyte",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Mindanao",
+        "raw_city": "Cotabato",
+        "region": "Mindanao",
+        "province": "Cotabato",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Mindanao",
+        "raw_city": "Davao Oriental",
+        "region": "Mindanao",
+        "province": "Davao Oriental",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "North Luzon",
+        "raw_city": "Quirino",
+        "region": "North Luzon",
+        "province": "Quirino",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Mindanao",
+        "raw_city": "Basilan",
+        "region": "Mindanao",
+        "province": "Basilan",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Visayas",
+        "raw_city": "Iloilo",
+        "region": "Visayas",
+        "province": "Iloilo",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Mindanao",
+        "raw_city": "Zamboanga Del Norte",
+        "region": "Mindanao",
+        "province": "Zamboanga Del Norte",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "South Luzon",
+        "raw_city": "Camarines Sur",
+        "region": "South Luzon",
+        "province": "Camarines Sur",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "North Luzon",
+        "raw_city": "Benguet",
+        "region": "North Luzon",
+        "province": "Benguet",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Mindanao",
+        "raw_city": "Davao Del Sur",
+        "region": "Mindanao",
+        "province": "Davao Del Sur",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Mindanao",
+        "raw_city": "Surigao Del Norte",
+        "region": "Mindanao",
+        "province": "Surigao Del Norte",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "North Luzon",
+        "raw_city": "Bulacan",
+        "region": "North Luzon",
+        "province": "Bulacan",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Visayas",
+        "raw_city": "Western Samar",
+        "region": "Visayas",
+        "province": "Western Samar",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Mindanao",
+        "raw_city": "Compostela Valley",
+        "region": "Mindanao",
+        "province": "Compostela Valley",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Visayas",
+        "raw_city": "Aklan",
+        "region": "Visayas",
+        "province": "Aklan",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "South Luzon",
+        "raw_city": "Batangas",
+        "region": "South Luzon",
+        "province": "Batangas",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "North Luzon",
+        "raw_city": "Zambales",
+        "region": "North Luzon",
+        "province": "Zambales",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Mindanao",
+        "raw_city": "Davao Del Norte",
+        "region": "Mindanao",
+        "province": "Davao Del Norte",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "North Luzon",
+        "raw_city": "La Union",
+        "region": "North Luzon",
+        "province": "La Union",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Mindanao",
+        "raw_city": "North Cotabato",
+        "region": "Mindanao",
+        "province": "North Cotabato",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "North Luzon",
+        "raw_city": "Nueva Vizcaya",
+        "region": "North Luzon",
+        "province": "Nueva Vizcaya",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Mindanao",
+        "raw_city": "Bukidnon",
+        "region": "Mindanao",
+        "province": "Bukidnon",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Mindanao",
+        "raw_city": "Tawi-Tawi",
+        "region": "Mindanao",
+        "province": "Tawi-Tawi",
+        "updated_at": "2026-11-19T13:53:14.478+00:00"
+      },
+      {
+        "raw_province": "South Luzon",
+        "raw_city": "Catanduanes",
+        "region": "South Luzon",
+        "province": "Catanduanes",
+        "updated_at": "2026-11-19T13:53:14.478+00:00"
+      },
+      {
+        "raw_province": "North Luzon",
+        "raw_city": "Kalinga",
+        "region": "North Luzon",
+        "province": "Kalinga",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "North Luzon",
+        "raw_city": "Ilocos Norte",
+        "region": "North Luzon",
+        "province": "Ilocos Norte",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "North Luzon",
+        "raw_city": "Nueva Ecija",
+        "region": "North Luzon",
+        "province": "Nueva Ecija",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "South Luzon",
+        "raw_city": "Masbate",
+        "region": "South Luzon",
+        "province": "Masbate",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Visayas",
+        "raw_city": "Biliran",
+        "region": "Visayas",
+        "province": "Biliran",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "North Luzon",
+        "raw_city": "Ifugao",
+        "region": "North Luzon",
+        "province": "Ifugao",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "South Luzon",
+        "raw_city": "Sorsogon",
+        "region": "South Luzon",
+        "province": "Sorsogon",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Visayas",
+        "raw_city": "Antique",
+        "region": "Visayas",
+        "province": "Antique",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Mindanao",
+        "raw_city": "Camiguin",
+        "region": "Mindanao",
+        "province": "Camiguin",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "South Luzon",
+        "raw_city": "Occidental Mindoro",
+        "region": "South Luzon",
+        "province": "Occidental Mindoro",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Visayas",
+        "raw_city": "Cebu",
+        "region": "Visayas",
+        "province": "Cebu",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "Mindanao",
+        "raw_city": "Agusan Del Norte",
+        "region": "Mindanao",
+        "province": "Agusan Del Norte",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      },
+      {
+        "raw_province": "North Luzon",
+        "raw_city": "Pampanga",
+        "region": "North Luzon",
+        "province": "Pampanga",
+        "updated_at": "2026-11-19T13:53:14.477+00:00"
+      }
+    ],
+    "summary": {
+      "profile": {
+        "filesImported": 59,
+        "transactionLines": 60457,
+        "uniqueOrders": 40014,
+        "uniqueProducts": 641,
+        "dateCoverage": {
+          "min": "2021-01-01",
+          "max": "2025-11-16"
+        }
+      },
+      "quality": {
+        "invalidDateRecords": 0,
+        "invalidNumericRecords": 0,
+        "duplicateRows": 0
+      }
+    }
+  }
+}
