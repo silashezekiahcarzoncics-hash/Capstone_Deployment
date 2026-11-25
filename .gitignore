@@ -1,0 +1,13 @@
+node_modules/
+server/node_modules/
+server/storage/*
+server/data/datasets.json
+.env
+.DS_Store
+dist/
+server/data/uploads/
+server/data/prepared_master_data.json
+server/data/prepared_upload_state.json
+server/data/database.json
+server/data/preparation_state.json
+.vite/
